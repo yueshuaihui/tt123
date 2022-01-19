@@ -1,4 +1,4 @@
-print(110)
-print(134)
+print(123)
+print(345)
 print('qqq')
 print(456)
